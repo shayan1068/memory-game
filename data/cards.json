@@ -1,0 +1,38 @@
+[
+    {
+        "image":"../assets/ahh.png",
+        "name": "ahh"
+    },
+    {
+        "image":"../assets/grin.png",
+        "name": "grin"
+    },
+    {
+        "image":"../assets/happy.png",
+        "name": "happy"
+    },
+    {
+        "image":"../assets/love.png",
+        "name": "love"
+    },
+    {
+        "image":"../assets/melting.png",
+        "name": "melting"
+    },
+    {
+        "image":"../assets/puz.png",
+        "name": "puz"
+    },
+    {
+        "image":"../assets/rami.png",
+        "name": "rami"
+    },
+    {
+        "image":"../assets/sunglasses.png",
+        "name": "sunglasses"
+    },
+    {
+        "image":"../assets/thumb.png",
+        "name": "thumb"
+    }
+]
